@@ -8,8 +8,9 @@ body {
 .box-container {
   display: flex;
   justify-content: center;
+
   flex-wrap: wrap;
-  width: 50%;
+  width: 620px;
 }
 span {
   padding: 20px 10px;
